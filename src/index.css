@@ -11,6 +11,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   background-color: #f2f4f8;
   margin: 0;
+  margin-bottom: 5rem;
   box-sizing: border-box;
 }
 
@@ -146,7 +147,7 @@ button {
   right: 0;
   height: 75px;
   background-color: #ffffff;
-  z-index: 1000;
+  z-index: 100;
   display: flex;
   justify-content: center;
   align-items: center;
